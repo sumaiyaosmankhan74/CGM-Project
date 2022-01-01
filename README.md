@@ -24,7 +24,3 @@ Every new function will generate our next scene & create a new window.each windo
 
 Multiple logics & implementation is used for creating each instance like tree,crow,bird,sun,moving stone,sky.
 Mmmmmmmmmmm…thats all about my project..Thank you 
-
-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
-
-
